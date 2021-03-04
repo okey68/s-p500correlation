@@ -1,0 +1,11 @@
+bs4
+datetime as dt
+matplotlib.pyplot
+matplotlib
+numpy as np
+os
+pandas as pd
+pandas_datareader
+pickle
+requests
+yfinance
