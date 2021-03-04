@@ -1,10 +1,10 @@
 bs4
-datetime as dt
+datetime
 matplotlib.pyplot
 matplotlib
-numpy as np
+numpy
 os
-pandas as pd
+pandas
 pandas_datareader
 pickle
 requests
