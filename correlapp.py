@@ -20,8 +20,4 @@ df_corr = df.corr()
 correl = df_corr.loc[stock1,stock2]
 #print("Correlation of",stock1,"&", stock2, "is:",correl)
 
-st.beta_container(3)
-
 st.write("The correlation between",stock1,"&", stock2, "is:",correl)
-
-
